@@ -1,0 +1,4 @@
+C:\Users\lillian.thompson\source\repos\Inheritance_Thompson_Lillian\Inheritance_Thompson_Lillian\obj\Debug\netcoreapp3.1\Inheritance_Thompson_Lillian.csproj.AssemblyReference.cache
+C:\Users\lillian.thompson\source\repos\Inheritance_Thompson_Lillian\Inheritance_Thompson_Lillian\obj\Debug\netcoreapp3.1\Inheritance_Thompson_Lillian.AssemblyInfoInputs.cache
+C:\Users\lillian.thompson\source\repos\Inheritance_Thompson_Lillian\Inheritance_Thompson_Lillian\obj\Debug\netcoreapp3.1\Inheritance_Thompson_Lillian.AssemblyInfo.cs
+C:\Users\lillian.thompson\source\repos\Inheritance_Thompson_Lillian\Inheritance_Thompson_Lillian\obj\Debug\netcoreapp3.1\Inheritance_Thompson_Lillian.csproj.CoreCompileInputs.cache
